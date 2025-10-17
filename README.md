@@ -37,4 +37,4 @@ Focusable controls and keyboard shortcuts for quick workflow
 High-contrast mode friendly (use browser/system dark mode) and print styles included
 
 # Screenshot
-![image alt](Screenshot 2025-10-17 164626.png)
+![image alt](https://github.com/AnkitPal2204/To-Do-list/blob/71d464005f7f1815e2e4758eb13c121529a0b441/Screenshot%202025-10-17%20164626.png)
