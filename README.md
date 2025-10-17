@@ -37,3 +37,4 @@ Focusable controls and keyboard shortcuts for quick workflow
 High-contrast mode friendly (use browser/system dark mode) and print styles included
 
 # Screenshot
+![image alt](Screenshot 2025-10-17 164626.png)
